@@ -106,7 +106,7 @@ Com o auxílio do recurso chamado de Estamina, o jogador podera fazer quantas jo
 
 # Interface
 
->![Explicação da interface](https://github.com//Dilumo/GetTheCastle/blob/master/Documents/Assets/Interface.png?raw=true "Explicação da interface") <br> 
+>![Explicação da interface](https://github.com/Dilumo/GetTheCastle/blob/master/Documents/Assets/interface.png?raw=true "Explicação da interface") <br> 
  > **Fonte:** Acervo pessoal.
 
 <a name="cronograma"></a>
