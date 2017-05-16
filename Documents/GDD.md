@@ -73,6 +73,11 @@ Com o auxílio do recurso chamado de Estamina, o jogador podera fazer quantas jo
  - Não anda na diagonal.
  - Entra em modo quando estiver em um quadrado de monstro.
  - Só sai de um combate com a ação fugir.
+ - Apenas três elementos podem ser postos no inventário.
+ - Jogo jagavel em uma, duas ou quatro pessoas.
+ - Mostros tem poder de ataque duplicado caso jogue em cooperativo.
+ - Número maximo cooperativo 2.
+ - Jogadores não cooperantes, não atacam o mesmo monstro. 
  - Quadrados de monstros atacados sem jogadores e que tenhão duas fugas se regeneram.
  - Todos os elementos consumiveis do jogo reaparecem depois de que todos do mesmo tipo forem pegos. 
 
@@ -117,14 +122,14 @@ Com o auxílio do recurso chamado de Estamina, o jogador podera fazer quantas jo
 | Dias          | Função        |  Data  |
 | ------------- |:-------------:| -----: |
 | Segunda       | Protótipo     | 15/05  |
-| Terça         | Teste         | 16/05  |
+| Terça         | Teste 01      | 16/05  |
 | Quarta        | Interface     | 17/05  |
 | Quinta        | Arte          | 18/05  |
-| Sábado        | Arte          | 19/05  |
-| Domingo       | Revisão       | 20/05  |
-| Segunda       | Teste         | 21/05  |
-| Terça         | Texto post    | 22/05  |
-| Quarta        | Postagem      | 23/05  |
+| Sexta         | Arte          | 19/05  |
+| Sábado        | Revisão       | 20/05  |
+| Domingo       | Teste 02      | 21/05  |
+| Segunda       | Texto post    | 22/05  |
+| Quarta        | Postagem      | 24/05  |
 
 <a name="ideias"></a>
 
