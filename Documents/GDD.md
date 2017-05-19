@@ -1,16 +1,17 @@
-# Take over the castle!
+# Take over the castle
+
 Jogo de uma página feito para treinamento, onde você desafia ou coopera com outros jogadores pela posse do castelo dos monstros.
 
-# Indice
+## Indice
 
 - [Documentação](#documentação)
-    - [Highconcept](#highconcept)
+  - [Highconcept](#highconcept)
     - [Enredo](#enredo)
     - [Gameplay](#gameplay)
-        - [Ações](#acoes) 
-        - [Regras](#regras) 
-        - [Elementos](#elementos)
-        - [Caminhos](#caminhos)        
+      - [Ações](#acoes)
+      - [Regras](#regras)
+      - [Elementos](#elementos)
+      - [Caminhos](#caminhos)
     - [Interface](#interface)
     - [Cronograma](#cronograma)
     - [Ideias](#ideias)
@@ -18,13 +19,13 @@ Jogo de uma página feito para treinamento, onde você desafia ou coopera com ou
 
 <a name="documentação"></a>
 
-# Documentação
+## Documentação
 
 Todas as informações de criação do projeto estão amntidas aqui, todas as informações estão sujeitas a modificações.
 
 <a name="highconcept"></a>
 
-##  Highconcept
+## Highconcept
 
 O jogador controla um guerreiro de Zathar, progredindo por um tabuleiro, lutado contra monstros e se tornando mais forte, para então derotar o rei Fertos e com isso a tomar o seu castelo.
 
@@ -36,34 +37,34 @@ Você um nobre guerreiro de Zathar, é convoncado para lutar em uma investida as
 
 <a name="gameplay"></a>
 
-## Gameplay 
+## Gameplay
 
 Com o auxílio do recurso chamado de Estamina, o jogador podera fazer quantas jogadas quiser respeitando as regras que circulam esse elemento, entre as diversas ações podemos nomiar aqui a de se mover, pegar, fugir, descansar e atacar onde nessa podera um dado para uma tentativa de dublicar o dano.
 
 <a name="acoes"></a>
 
-##  Ações: 
+## Ações
 
 - Pegar
-    - Custa um de estamina.
-    - Pegar um item e colocalo no seu inventario.
+  - Custa um de estamina.
+  - Pegar um item e colocalo no seu inventario.
 - Atacar
-    - Custa um de estamina.
-    - Atacar um inimigo que esteja no mesmo quadrado que você.
+  - Custa um de estamina.
+  - Atacar um inimigo que esteja no mesmo quadrado que você.
 - Tentar dano dublo
-    - Custa um de energia.
-    - Caso caia 1 ou 6 jogador dá o dobro de ataque.
-- Fugir 
-    - Custa três de estamina.
-    - Dá a chance do jogador sair do quadrado de combate.
+  - Custa um de energia.
+  - Caso caia 1 ou 6 jogador dá o dobro de ataque.
+- Fugir
+  - Custa três de estamina.
+  - Dá a chance do jogador sair do quadrado de combate.
 - Descansar
-    - Recupera um de estamina.
-    - Só se pode desancas uma vez por jogada e se tiver manos de três de estamina.
+  - Recupera um de estamina.
+  - Só se pode desancas uma vez por jogada e se tiver manos de três de estamina.
 
 
 <a name="regras"></a>
 
-##  Regras: 
+## Regras
 
  - Inicia com dez de vida.
  - Inicia com cinco de estamina.
@@ -110,14 +111,14 @@ Com o auxílio do recurso chamado de Estamina, o jogador podera fazer quantas jo
 
 <a name="interface"></a>
 
-# Interface
+## Interface
 
 >![Explicação da interface](https://github.com/Dilumo/GetTheCastle/blob/master/Documents/Assets/interface.png?raw=true "Explicação da interface") <br> 
  > **Fonte:** Acervo pessoal.
 
 <a name="cronograma"></a>
 
-# Cronograma
+## Cronograma
 
 
 | Dias          | Função        |  Data  |
@@ -134,15 +135,16 @@ Com o auxílio do recurso chamado de Estamina, o jogador podera fazer quantas jo
 
 <a name="ideias"></a>
 
-# Ideias
+## Ideias
 
 Conforme o processo de criação idias para expação desse jogo dever ser postas aqui.
 
 <a name="meios"></a>
 
-# Meios
+## Meios
 
 Usei as dependências da minha casa para produzir esse jogo.
+
 - Inkscape
 - Visual Studio Code
 - GitHub
