@@ -69,16 +69,17 @@ Com o auxílio do recurso chamado de Estamina, o jogador podera fazer quantas jo
  - Inicia com cinco de estamina.
  - Inicia com um de ataque.
  - Inicia com zero de defesa.
- - Menos de três de estamina resulta em menos um de vida por ação.
+ - Três de estamina resulta em menos um de vida por ação, Dois de estamina, menos dois por ação, Um de estamnia, menos 3 por ação, 0 de estamina, menos 5 por ação.
  - Não anda na diagonal.
- - Entra em modo quando estiver em um quadrado de monstro.
+ - Entra em modo combate, quando estiver em um quadrado de inimigo.
  - Só sai de um combate com a ação fugir.
  - Apenas três elementos podem ser postos no inventário.
- - Jogo jagavel em uma, duas ou quatro pessoas.
+ - Montros a serem mortos dão ao jogador a opção de ganhar Ataque ou Defesa equvalente a metade do poder do ataque do inimigo morto.
+ - Jogo jogavel em uma, duas ou quatro pessoas.
  - Mostros tem poder de ataque duplicado caso jogue em cooperativo.
  - Número maximo cooperativo 2.
- - Jogadores não cooperantes, não atacam o mesmo monstro. 
- - Quadrados de monstros atacados sem jogadores e que tenhão duas fugas se regeneram.
+ - Jogadores não cooperantes, não atacam o mesmo inimigo. 
+ - Quadrados de inimigos atacados sem jogadores e que tenhão duas fugas se regeneram.
  - Todos os elementos consumiveis do jogo reaparecem depois de que todos do mesmo tipo forem pegos. 
 
 <a name="elementos"></a>
