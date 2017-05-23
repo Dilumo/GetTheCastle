@@ -75,13 +75,15 @@ Com o auxílio do recurso chamado de Estamina, o jogador podera fazer quantas jo
  - Entra em modo combate, quando estiver em um quadrado de inimigo.
  - Só sai de um combate com a ação fugir.
  - Apenas três elementos podem ser postos no inventário.
- - Montros a serem mortos dão ao jogador a opção de ganhar Ataque ou Defesa equvalente a metade do poder do ataque do inimigo morto.
- - Jogo jogavel em uma, duas ou quatro pessoas.
- - Mostros tem poder de ataque duplicado caso jogue em cooperativo.
+ - Montros a serem mortos dão ao jogador a opção de ganhar Ataque ou Defesa equivalente a metade do poder do ataque do inimigo morto.
+ - Jogo jogável em uma, duas ou quatro pessoas.
+ - Monstros tem poder de ataque duplicado caso jogue em cooperativo.
  - Número maximo cooperativo 2.
  - Jogadores não cooperantes, não atacam o mesmo inimigo. 
- - Quadrados de inimigos atacados sem jogadores e que tenhão duas fugas se regeneram.
+ - Quadrados de inimigos atacados sem jogadores e que tenham duas fugas se regeneram.
  - Todos os elementos consumiveis do jogo reaparecem depois de que todos do mesmo tipo forem pegos. 
+ - Ganha quem derotar o rei do castelo.
+ - Perde quem morrer.
 
 <a name="elementos"></a>
 
