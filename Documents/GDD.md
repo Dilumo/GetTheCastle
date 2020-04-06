@@ -39,7 +39,7 @@ Você um nobre guerreiro de Zathar, é convoncado para lutar em uma investida as
 
 ## Gameplay
 
-Com o auxílio do recurso chamado de Estamina, o jogador podera fazer quantas jogadas quiser respeitando as regras que circulam esse elemento, entre as diversas ações podemos nomiar aqui a de se mover, pegar, fugir, descansar e atacar onde nessa podera um dado para uma tentativa de dublicar o dano.
+Com o auxílio do recurso chamado de Estamina, o jogador podera fazer quantas jogadas quiser respeitando as regras que circulam esse elemento, entre as diversas ações podemos nomiar aqui a de se mover, pegar, fugir, descansar e atacar, onde nessa podera com um dado ter uma tentativa de dublicar o dano.
 
 <a name="acoes"></a>
 
