@@ -120,7 +120,7 @@ Com o auxílio do recurso chamado de Estamina, o jogador podera fazer quantas jo
  
  ## Arte
  
- [Arte Style](https://github.com/Dilumo/GetTheCastle/blob/master/Documents/Assets/ArtStyle.png)<br>
+ [Arte Style](https://github.com/Dilumo/GetTheCastle/blob/master/Documents/Assets/ArtStyle.png?raw=true "Estilo de Arte")<br>
  > **Fonte:** Acervo pessoal.
 
 <a name="cronograma"></a>
