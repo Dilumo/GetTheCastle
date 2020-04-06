@@ -21,13 +21,13 @@ Jogo de uma página feito para treinamento, onde você desafia ou coopera com ou
 
 ## Documentação
 
-Todas as informações de criação do projeto estão amntidas aqui, todas as informações estão sujeitas a modificações.
+Todas as informações de criação do projeto estão mantidas aqui, todas as informações estão sujeitas a modificações.
 
 <a name="highconcept"></a>
 
 ## Highconcept
 
-O jogador controla um guerreiro de Zathar, progredindo por um tabuleiro, lutado contra monstros e se tornando mais forte, para então derotar o rei Fertos e com isso a tomar o seu castelo.
+O jogador controla um guerreiro de Zathar, progredindo por um tabuleiro, lutado contra monstros e se tornando mais forte, para então derotar o rei Fertos e com isso tomar o seu castelo.
 
 <a name="enredo"></a>
 
