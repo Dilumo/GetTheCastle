@@ -21,7 +21,7 @@ Jogo de uma página feito para treinamento, onde você desafia ou coopera com ou
 
 ## Documentação
 
-Todas as informações de criação do projeto estão mantidas aqui, todas as informações estão sujeitas a modificações.
+Todas as informações de criação do projeto estão mantidas aqui e estão sujeitas a modificações.
 
 <a name="highconcept"></a>
 
